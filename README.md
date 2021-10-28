@@ -3,6 +3,9 @@ C++ app to convert binary to decimal and decimal to binary.
 
 *Please note: This command line C++ app only takes in integers instead of doubles or floats. And, it only takes in binary with integer outputs.*
 
+## NodeJS on the Terminal Counterpart
+https://github.com/junerockwell/binary-conversions-node-typescript-terminal
+
 ## Before running
 Make sure that you have a C++ compiler.
 
