@@ -17,6 +17,6 @@ For this app, I compiled using `g++`.
 
 ## To run the app
 1. To run the app and get started on inputting data to convert, download this repo to yours.
-2. `mkdir` to the app's directory.
+2. `cd` to the app's directory.
 3. Compile by running `c++ binary_conversions.cpp -o conversions`
 4. Then run, `./conversions`
