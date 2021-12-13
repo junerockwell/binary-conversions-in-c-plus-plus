@@ -15,8 +15,12 @@ To check if your system has `g++`, type in the command line `g++ --version`.
 
 For this app, I compiled using `g++`.
 
-## To run the app
-1. To run the app and get started on inputting data to convert, download this repo to yours.
+## To run the app from the repo
+1. To run the app and get started on inputting data to convert, download this repo to yours. 
 2. `cd` to the app's directory.
-3. Compile by running `c++ binary_conversions.cpp -o conversions`
-4. Then run, `./conversions`
+3. Compile by running `c++ binary_conversions.cpp -o conversions`.
+4. Then run, `./conversions`.
+
+## To run the app from the already compiled file
+1. Download the `conversions` file from this repo directly to your matching.
+2. Then run, `./conversions`.
